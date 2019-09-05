@@ -17,3 +17,6 @@ Just to remind myself:
 - git config --list : View your git configurations
 - git log -2 : List changes made in previous 2 steps
 - git remote -v : list the remote location associated with git
+
+## Resources
+Learn more from Daniel Shiffman' the Coding Train Git for Poets : https://www.youtube.com/watch?v=yXT1ElMEkW8&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s
