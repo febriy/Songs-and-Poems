@@ -1,18 +1,18 @@
 # Blessed Assurance
 
 ## Current Status
-Verse:
-I'm redeemed
+Verse:\
+I'm redeemed\
 
 
 
 Chorus:
-This is my blessed assurance
-.
-.
-.
-You've ripped out my shame away
-Oh Lord, you're here to stay
+This is my blessed assurance\
+.\
+.\
+.\
+You've ripped out my shame away\
+Oh Lord, you're here to stay\
 
 ## Link to recording
 

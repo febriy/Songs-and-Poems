@@ -1,45 +1,46 @@
 # Sapphire
 
 ## Current Status
-[BOX 1: I think this might work]
-Singing with the girl clad in blue
-Duet that made my heart ring
-something shining
-...sometime in September
-(well..)
-I guess this isn't a mistake
-What a great couple we'll make
-(I thought)
-Maybe! Maybe you're my sapphire
+[BOX 1: I think this might work]\
+Singing with the girl clad in blue\
+Duet that made my heart ring\
+something shining\
+...sometime in September\
+(well..)\
+I guess this isn't a mistake\
+What a great couple we'll make\
+(I thought)\
+Maybe! Maybe you're my sapphire\
 
-[BOX 2: I become sure]
-Sitting by the deep blue ocean
-barefoot on the field of sand 
-see, our hands 
-...knitted by red fire
-Singing songs of devotion
-This is my confession
-(I say)
-Yes! You are my Sapphire
+[BOX 2: I become sure]\
+Sitting by the deep blue ocean\
+barefoot on the field of sand \
+see, our hands \
+...knitted by red fire\
+Singing songs of devotion\
+This is my confession\
+(I say)\
+Yes! You are my Sapphire\
 
-[BOX 3: would you be my sapphire?]
-The day that I most desire
-I've waited for this all my life
-Oh my dear darling  (wife)
-...You're the one I admire
-Hear me out, this one thing true
-I love you so,I really do
-(Tell me)
-Darling! Would you be my sapphire?
+[BOX 3: would you be my sapphire?]\
+The day that I most desire\
+I've waited for this all my life\
+Oh my dear darling  (wife)\
+...You're the one I admire\
+Hear me out, this one thing true\
+I love you so,I really do\
+(Tell me)\
+Darling! Would you be my sapphire?\
 
-[Bridge]
-So please smile... my Sapphire....
-We'll walk down the aile..... my Sapphire!
+[Bridge]\
+So please smile... my Sapphire....\
+We'll walk down the aile..... my Sapphire!\
 
 ## Link to recording
 
 ## Motivation
-I've decided that this will be a song of 'an excited declaration' - Inspired by Treasure, I wanna hold your hand, flashlight, . 
+I've decided that this will be a song of 'an excited declaration' - Inspired by Treasure, I wanna hold your hand, flashlight. 
+
 This song is titled Sapphire. This is about how my darling is like a precious gemstone which entices me, that I want to own for myself. 
 
 ## Features/ Notes
@@ -62,7 +63,7 @@ Concepts:
 
 MOOD: energetic, joyful, playful NOT romantic, restful, touching
 
-Sapphire
+### Sapphire
 
 Keywords:
 - Sapphire (I imagine rhyming 'shereen' but instead of doing that, I change it to Sapphire): fire, choir, desire, higher, admire, You are made by blue fire
