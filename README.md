@@ -11,7 +11,7 @@ Just to remind myself:
 - git clone < https link > : Copy a repo into my computer
 - git status : Look at what has been done in the local repo
 - git commit -a -m " < comments > ": committing the changes to local repo. -a means all change. -m is to include a message
-- git push < destination > : Push changes to Github (remote server) (e.g. git push origin)
+- git push < destination: remote > < branch >: Push changes to Github (remote server) (e.g. git push origin master)
 
 - git config --list : View your git configurations
 - git log -2 : List changes made in previous 2 steps
