@@ -10,4 +10,6 @@ To start, everything will be in this folder. All info related to the song will b
 Just to remind myself:
 - git clone < https link > : Copy a repo into my computer
 - git status : Look at what has been done in the local repo
-- git commit -a -m " < comments > ": committing the changes to Github. -a means all change. -m is to include a message.   
+- git commit -a -m " < comments > ": committing the changes to Github. -a means all change. -m is to include a message
+
+- git config --list : View your git configurations
