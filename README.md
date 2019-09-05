@@ -13,3 +13,4 @@ Just to remind myself:
 - git commit -a -m " < comments > ": committing the changes to Github. -a means all change. -m is to include a message
 
 - git config --list : View your git configurations
+- git log -2 : List changes made in previous 2 steps
