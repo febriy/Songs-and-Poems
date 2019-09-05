@@ -10,7 +10,6 @@
 
 
 ## Current Status
------
 Verse:
 I'm redeemed
 
