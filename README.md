@@ -18,5 +18,9 @@ Just to remind myself:
 - git log -2 : List changes made in previous 2 steps
 - git remote -v : list the remote location associated with git
 
+- git rm '< file name >' :remove from tracked file (e.g. rm 'projects.md')
+- git git ls-tree -r master --name-only : list all currently tracked files
+
+
 ## Resources
 Learn more from Daniel Shiffman' the Coding Train Git for Poets : https://www.youtube.com/watch?v=yXT1ElMEkW8&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s
