@@ -2,7 +2,7 @@
 
 ## Current Status:
 
-[Verse 1]
+[Verse 1]\
 This ring\
 Remember the time\
 Remember the words\
