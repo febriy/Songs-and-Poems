@@ -44,5 +44,5 @@ It starts today, till the end of days 3x
 [Pre-Chorus]\
 Two lifes\
 Used to be apart\
-Decided to hold on\ 
+Decided to hold on\
 Walk side by side
