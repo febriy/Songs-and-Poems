@@ -1,29 +1,48 @@
-# Blessed Assurance
+# Till the end of day
 
-## Current Status
-Verse:\
-I'm redeemed\
+## Current Status:
 
+[Verse 1]\
+This ring\
+Remember the time\
+Remember the words\
+That we've said\
 
+We'll stay\
+For better and worse\
+In sickness and in health\
+Rich and poor\
 
-Chorus:
-This is my blessed assurance\
-.\
-.\
-.\
-You've ripped out my shame away\
-Oh Lord, you're here to stay\
+[Verse 2]\
+This life\
+The ups and the downs\
+The strain and the pain\
+They will test us\
 
-## Link to recording
+Our life\
+Will echo this vow\
+Will rhyme with His love\
+With His command\
 
-## Motivation
-- I was feeling shame due to comparison and thinking that I'm not good enough
-- Reminded that my worth is given by my creator, not performance or anything else
+[Verse 3]\
+One day\
+When we're ninety nine\
+The ring on our fingers\
+(will) lose its shine\
 
-## Features/ Notes
-- I wanted the chorus to be a declarative THIS IS MY BLESSED ASSURANCE, and this will be followed by the second line answering the first line -> 'What blessed assurace are you talking about?'
-- The last 2 lines, I want it to be visual and extreme 'You've ripped out my shame away' -> the idea of ripping out, leaving one empty. So what will fill it? -> Oh Lord, you are here to stay.
+That's fine\
+Our heart's intertwined\
+Our hair will turn silver\
+Shimmering crown\
 
+[Chorus]
+What God has joined, let no one separates\
+We're living not by our strength, we'll turn to Him instead\
+For He is here, I'm confident to say\
+It starts today, till the end of days 3x\ 
 
-
-
+[Pre-Chorus]
+Two lifes\
+Used to be apart\
+Decided to hold on\ 
+Walk side by side\
